@@ -65,3 +65,15 @@ COMSATS University Islamabad — 2024 to 2028
 📍 Tehsil Fazilpur, District Rajanpur, Pakistan
 
 ⭐ *"Mathematics is the language in which God has written the universe."*
+
+## 🚀 Projects
+
+### 🚢 Titanic Survival Prediction
+- Predicted passenger survival using ML
+- Tools: Python · Pandas · Sklearn · Seaborn
+- Techniques: Logistic Regression · 
+  One-Hot Encoding · Data Preprocessing
+- 📂 [View Project](https://github.com/MEH-WISH777/MEH-WISH777/blob/main/Titanic_ML_Project.ipynb)
+
+---
+📫 **Contact me:** mehwishtariq1033@gmail.com
